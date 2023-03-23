@@ -26,5 +26,6 @@ Streak stats:
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lakewatcher&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
 
 Be sure to check my little project:
-
+<!--
 [![NOJ Card](https://github-readme-stats.vercel.app/api/pin/?username=lakewatcher&repo=NOJ&show_owner=true)](https://github.com/lakewatcher/NOJ)
+ -->
